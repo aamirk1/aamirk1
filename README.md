@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [TMS Admin]([https://github.com/aamirk1/passwordmanagers.git](https://github.com/aamirk1/tms_admin.git))
+- 🔭 I’m currently working on [TMS Admin](https://github.com/aamirk1/tms_admin.git)
 
 - 🌱 I’m currently learning **ML/AI Flutter**
 
